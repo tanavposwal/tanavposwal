@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**tanavposwal/tanavposwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on `AI and its integeration 🚀 in web apps`
+- 🌱 I’m currently learning `ai sdks ✨, devops`
+- 👯 I’m looking to collaborate on `amazing projects`
+- 💬 Ask me about `development`
+- 📫 How to reach me: `twitter, linkedin, or pr 🔥`
+- 😄 Pronouns: `he, him`
+- ⚡ Fun fact: `I like to play cricket 🏏`
 
-Here are some ideas to get you started:
+![tanavposwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanavposwal&theme=dracula&hide_border=false)
+![tanavposwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanavposwal&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "The journey of a thousand miles begins with one step." - Lao Tzu
+
+[![](https://visitcount.itsvg.in/api?id=Tanav&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
